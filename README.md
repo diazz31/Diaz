@@ -58,21 +58,16 @@
         <div class="info-section">
             <h2>Pengertian Jaringan Komputer</h2>
             <p>Jaringan komputer adalah dua atau lebih perangkat komputer yang saling terhubung atau terkoneksi antara satu dengan yang lain dan digunakan untuk berbagai sumber data. 
-
                 Setiap titik akhir dalam suatu jaringan memiliki tanda pengenal, yang biasa disebut dengan alamat IP atau alamat media access control.
-                
                 Endpoint dapat mencakup server, komputer, telepon, dan perangkat keras (hardware) jaringan yang lain. Jaringan komputer (jarkom) dapat dibuat dengan menggunakan gabungan dari teknologi kabel dan wireless.
-                
                 Jaringan dapat bersifat privat maupun publik. Dalam penggunaan jaringan private, biasanya memerlukan akses user untuk memasukkan kredensial berupa kata sandi.
-                
                 Kata sandi tersebut dimasukkan secara manual oleh administrator atau diperoleh langsung oleh pengguna. Untuk penggunaan jaringan publik seperti internet, tidak membatasi suatu akses..</p>
             <h2>Perangkat Koneksi</h2>
-            <p>Router adalah perangkat jaringan yang digunakan untuk mengarahkan data dari satu jaringan ke jaringan lainnya. Router menentukan jalur terbaik bagi data untuk mencapai tujuannya dan memungkinkan beberapa perangkat untuk menggunakan koneksi internet yang sama.</p>
+            <p></p>Router adalah perangkat keras untuk menghubungkan beberapa jaringan, baik itu jaringan yang sama atau jaringan yang berbeda. Di mana routing adalah proses pengiriman paket data melalui jaringan dari satu perangkat ke perangkat lainnya. Router adalah melakukan fungsi pengarahan lalu lintas dalam sebuah jaringan, termasuk internet.</p>
             <h2>LINK TUTORIAL WEB DAN HOSTING</h2>
             <P>tutorial hosting: https://online.publuu.com/545539/1225381</P>
-            <P>tutorial web: </P>
+            <P>tutorial web    : https://online.publuu.com/545539/1225513 </P>
         </div>
     </div>
 </body>
 </html>
-
